@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\12.Beer Kegs\bin\Debug\12.Beer Kegs.exe.config
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\12.Beer Kegs\bin\Debug\12.Beer Kegs.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\12.Beer Kegs\bin\Debug\12.Beer Kegs.pdb
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\12.Beer Kegs\obj\Debug\12.Beer Kegs.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\12.Beer Kegs\obj\Debug\12.Beer Kegs.pdb

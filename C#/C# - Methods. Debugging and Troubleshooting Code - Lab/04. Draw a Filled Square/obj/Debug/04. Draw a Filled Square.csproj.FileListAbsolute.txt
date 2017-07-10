@@ -1,0 +1,6 @@
+c:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.exe.config
+c:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.exe
+c:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.pdb
+c:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\04. Draw a Filled Square\obj\Debug\04. Draw a Filled Square.csprojResolveAssemblyReference.cache
+c:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\04. Draw a Filled Square\obj\Debug\_04.Draw_a_Filled_Square.exe
+c:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\04. Draw a Filled Square\obj\Debug\_04.Draw_a_Filled_Square.pdb

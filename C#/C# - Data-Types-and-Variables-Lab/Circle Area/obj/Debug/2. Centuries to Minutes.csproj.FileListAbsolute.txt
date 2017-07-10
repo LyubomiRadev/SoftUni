@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\2. Centuries to Minutes\bin\Debug\_2.Centuries_to_Minutes.exe.config
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\2. Centuries to Minutes\bin\Debug\_2.Centuries_to_Minutes.exe
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\2. Centuries to Minutes\bin\Debug\_2.Centuries_to_Minutes.pdb
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\2. Centuries to Minutes\obj\Debug\_2.Centuries_to_Minutes.exe
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\2. Centuries to Minutes\obj\Debug\_2.Centuries_to_Minutes.pdb

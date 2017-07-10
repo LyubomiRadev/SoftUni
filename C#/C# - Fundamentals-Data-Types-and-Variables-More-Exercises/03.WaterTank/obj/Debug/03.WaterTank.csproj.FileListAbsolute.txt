@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\03.WaterTank\bin\Debug\03.WaterTank.exe.config
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\03.WaterTank\bin\Debug\03.WaterTank.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\03.WaterTank\bin\Debug\03.WaterTank.pdb
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\03.WaterTank\obj\Debug\03.WaterTank.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\03.WaterTank\obj\Debug\03.WaterTank.pdb

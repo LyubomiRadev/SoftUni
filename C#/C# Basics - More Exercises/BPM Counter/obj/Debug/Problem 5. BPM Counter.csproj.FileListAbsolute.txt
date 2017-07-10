@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Problem 5. BPM Counter\bin\Debug\Problem_5.BPM_Counter.exe.config
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Problem 5. BPM Counter\bin\Debug\Problem_5.BPM_Counter.exe
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Problem 5. BPM Counter\bin\Debug\Problem_5.BPM_Counter.pdb
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Problem 5. BPM Counter\obj\Debug\Problem 5. BPM Counter.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Problem 5. BPM Counter\obj\Debug\Problem_5.BPM_Counter.exe
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Problem 5. BPM Counter\obj\Debug\Problem_5.BPM_Counter.pdb

@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\03.English Name оf The Last Digit\bin\Debug\03.English Name оf The Last Digit.exe.config
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\03.English Name оf The Last Digit\bin\Debug\03.English Name оf The Last Digit.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\03.English Name оf The Last Digit\bin\Debug\03.English Name оf The Last Digit.pdb
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\03.English Name оf The Last Digit\obj\Debug\03.English Name оf The Last Digit.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\03.English Name оf The Last Digit\obj\Debug\03.English Name оf The Last Digit.pdb

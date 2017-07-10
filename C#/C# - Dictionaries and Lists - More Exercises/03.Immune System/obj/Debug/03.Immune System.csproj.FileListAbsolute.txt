@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\03.Immune System\bin\Debug\03.Immune System.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\03.Immune System\bin\Debug\03.Immune System.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\03.Immune System\bin\Debug\03.Immune System.pdb
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\03.Immune System\obj\Debug\03.Immune System.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\03.Immune System\obj\Debug\03.Immune System.pdb
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\03.Immune System\obj\Debug\03.Immune System.csprojResolveAssemblyReference.cache

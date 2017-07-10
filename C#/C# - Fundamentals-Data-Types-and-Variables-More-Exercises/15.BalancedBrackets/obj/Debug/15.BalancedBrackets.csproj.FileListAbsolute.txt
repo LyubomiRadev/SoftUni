@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\15.BalancedBrackets\bin\Debug\15.BalancedBrackets.exe.config
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\15.BalancedBrackets\bin\Debug\15.BalancedBrackets.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\15.BalancedBrackets\bin\Debug\15.BalancedBrackets.pdb
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\15.BalancedBrackets\obj\Debug\15.BalancedBrackets.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\15.BalancedBrackets\obj\Debug\15.BalancedBrackets.pdb

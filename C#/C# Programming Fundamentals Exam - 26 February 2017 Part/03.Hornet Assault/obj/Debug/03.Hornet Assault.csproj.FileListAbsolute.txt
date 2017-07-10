@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\01.Hornet Wings\03.Hornet Assault\bin\Debug\03.Hornet Assault.exe.config
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\01.Hornet Wings\03.Hornet Assault\bin\Debug\03.Hornet Assault.exe
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\01.Hornet Wings\03.Hornet Assault\bin\Debug\03.Hornet Assault.pdb
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\01.Hornet Wings\03.Hornet Assault\obj\Debug\03.Hornet Assault.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\01.Hornet Wings\03.Hornet Assault\obj\Debug\03.Hornet Assault.exe
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\01.Hornet Wings\03.Hornet Assault\obj\Debug\03.Hornet Assault.pdb

@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\04.Distance Between Points\bin\Debug\04.Distance Between Points.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\04.Distance Between Points\bin\Debug\04.Distance Between Points.exe
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\04.Distance Between Points\bin\Debug\04.Distance Between Points.pdb
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\04.Distance Between Points\obj\Debug\04.Distance Between Points.exe
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\04.Distance Between Points\obj\Debug\04.Distance Between Points.pdb

@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\05.Match Number\bin\Debug\05.Match Number.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\05.Match Number\bin\Debug\05.Match Number.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\05.Match Number\bin\Debug\05.Match Number.pdb
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\05.Match Number\obj\Debug\05.Match Number.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\05.Match Number\obj\Debug\05.Match Number.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\05.Match Number\obj\Debug\05.Match Number.pdb

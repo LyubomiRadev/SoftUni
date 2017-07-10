@@ -1,0 +1,6 @@
+C:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\9. Multiply Evens by Odds\obj\Debug\9. Multiply Evens by Odds.csprojResolveAssemblyReference.cache
+C:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\9. Multiply Evens by Odds\bin\Debug\_9.Multiply_Evens_by_Odds.exe.config
+C:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\9. Multiply Evens by Odds\bin\Debug\_9.Multiply_Evens_by_Odds.exe
+C:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\9. Multiply Evens by Odds\bin\Debug\_9.Multiply_Evens_by_Odds.pdb
+C:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\9. Multiply Evens by Odds\obj\Debug\_9.Multiply_Evens_by_Odds.exe
+C:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\9. Multiply Evens by Odds\obj\Debug\_9.Multiply_Evens_by_Odds.pdb

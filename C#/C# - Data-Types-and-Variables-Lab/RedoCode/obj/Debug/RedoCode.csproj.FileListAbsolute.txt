@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\RedoCode\bin\Debug\RedoCode.exe.config
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\RedoCode\bin\Debug\RedoCode.exe
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\RedoCode\bin\Debug\RedoCode.pdb
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\RedoCode\obj\Debug\RedoCode.exe
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\RedoCode\obj\Debug\RedoCode.pdb

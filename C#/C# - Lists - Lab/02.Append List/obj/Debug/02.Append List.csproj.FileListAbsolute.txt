@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Lists - Lab\02.Append List\bin\Debug\02.Append List.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Lists - Lab\02.Append List\bin\Debug\02.Append List.exe
+C:\My Stuff\SoftUni\Homework\C# - Lists - Lab\02.Append List\bin\Debug\02.Append List.pdb
+C:\My Stuff\SoftUni\Homework\C# - Lists - Lab\02.Append List\obj\Debug\02.Append List.exe
+C:\My Stuff\SoftUni\Homework\C# - Lists - Lab\02.Append List\obj\Debug\02.Append List.pdb

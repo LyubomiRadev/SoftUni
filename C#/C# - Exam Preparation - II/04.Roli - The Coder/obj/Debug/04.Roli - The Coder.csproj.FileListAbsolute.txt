@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\04.Roli - The Coder\bin\Debug\04.Roli - The Coder.exe.config
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\04.Roli - The Coder\bin\Debug\04.Roli - The Coder.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\04.Roli - The Coder\bin\Debug\04.Roli - The Coder.pdb
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\04.Roli - The Coder\obj\Debug\04.Roli - The Coder.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\04.Roli - The Coder\obj\Debug\04.Roli - The Coder.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\04.Roli - The Coder\obj\Debug\04.Roli - The Coder.pdb

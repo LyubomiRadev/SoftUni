@@ -1,0 +1,6 @@
+C:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\FixCode\bin\Debug\FixCode.exe.config
+C:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\FixCode\bin\Debug\FixCode.exe
+C:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\FixCode\bin\Debug\FixCode.pdb
+C:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\FixCode\obj\Debug\FixCode.csprojResolveAssemblyReference.cache
+C:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\FixCode\obj\Debug\FixCode.exe
+C:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\FixCode\obj\Debug\FixCode.pdb

@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\02.Add Index In Line\bin\Debug\02.Add Index In Line.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\02.Add Index In Line\bin\Debug\02.Add Index In Line.exe
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\02.Add Index In Line\bin\Debug\02.Add Index In Line.pdb
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\02.Add Index In Line\obj\Debug\02.Add Index In Line.exe
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\02.Add Index In Line\obj\Debug\02.Add Index In Line.pdb

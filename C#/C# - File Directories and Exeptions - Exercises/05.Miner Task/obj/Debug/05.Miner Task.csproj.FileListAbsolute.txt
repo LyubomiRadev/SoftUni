@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\05.Miner Task\bin\Debug\05.Miner Task.exe.config
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\05.Miner Task\bin\Debug\05.Miner Task.exe
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\05.Miner Task\bin\Debug\05.Miner Task.pdb
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\05.Miner Task\obj\Debug\05.Miner Task.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\05.Miner Task\obj\Debug\05.Miner Task.exe
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\05.Miner Task\obj\Debug\05.Miner Task.pdb

@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\04.Hornet Armada\bin\Debug\04.Hornet Armada.exe.config
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\04.Hornet Armada\bin\Debug\04.Hornet Armada.exe
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\04.Hornet Armada\bin\Debug\04.Hornet Armada.pdb
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\04.Hornet Armada\obj\Debug\04.Hornet Armada.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\04.Hornet Armada\obj\Debug\04.Hornet Armada.exe
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\04.Hornet Armada\obj\Debug\04.Hornet Armada.pdb

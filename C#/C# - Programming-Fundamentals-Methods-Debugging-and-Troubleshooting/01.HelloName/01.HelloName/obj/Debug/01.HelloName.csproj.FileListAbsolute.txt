@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\01.HelloName\bin\Debug\01.HelloName.exe.config
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\01.HelloName\bin\Debug\01.HelloName.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\01.HelloName\bin\Debug\01.HelloName.pdb
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\01.HelloName\obj\Debug\01.HelloName.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\01.HelloName\obj\Debug\01.HelloName.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\01.HelloName\obj\Debug\01.HelloName.pdb

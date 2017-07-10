@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\04.Character Multiplier\bin\Debug\04.Character Multiplier.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\04.Character Multiplier\bin\Debug\04.Character Multiplier.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\04.Character Multiplier\bin\Debug\04.Character Multiplier.pdb
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\04.Character Multiplier\obj\Debug\04.Character Multiplier.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\04.Character Multiplier\obj\Debug\04.Character Multiplier.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\04.Character Multiplier\obj\Debug\04.Character Multiplier.pdb

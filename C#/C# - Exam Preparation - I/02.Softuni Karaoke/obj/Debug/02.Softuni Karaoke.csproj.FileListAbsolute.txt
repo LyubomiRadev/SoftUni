@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\02.Softuni Karaoke\bin\Debug\02.Softuni Karaoke.exe.config
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\02.Softuni Karaoke\bin\Debug\02.Softuni Karaoke.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\02.Softuni Karaoke\bin\Debug\02.Softuni Karaoke.pdb
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\02.Softuni Karaoke\obj\Debug\02.Softuni Karaoke.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\02.Softuni Karaoke\obj\Debug\02.Softuni Karaoke.pdb
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\02.Softuni Karaoke\obj\Debug\02.Softuni Karaoke.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Exam Preparation - III\01.SoftUni Coffee Orders\03. Rage Quit\bin\Debug\_03.Rage_Quit.exe.config
+C:\My Stuff\SoftUni\Homework\Exam Preparation - III\01.SoftUni Coffee Orders\03. Rage Quit\bin\Debug\_03.Rage_Quit.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - III\01.SoftUni Coffee Orders\03. Rage Quit\bin\Debug\_03.Rage_Quit.pdb
+C:\My Stuff\SoftUni\Homework\Exam Preparation - III\01.SoftUni Coffee Orders\03. Rage Quit\obj\Debug\03. Rage Quit.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\Exam Preparation - III\01.SoftUni Coffee Orders\03. Rage Quit\obj\Debug\_03.Rage_Quit.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - III\01.SoftUni Coffee Orders\03. Rage Quit\obj\Debug\_03.Rage_Quit.pdb

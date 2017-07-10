@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part I\02.HornetCom\bin\Debug\02.HornetCom.exe.config
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part I\02.HornetCom\bin\Debug\02.HornetCom.exe
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part I\02.HornetCom\bin\Debug\02.HornetCom.pdb
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part I\02.HornetCom\obj\Debug\02.HornetCom.exe
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part I\02.HornetCom\obj\Debug\02.HornetCom.pdb
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part I\02.HornetCom\obj\Debug\02.HornetCom.csprojResolveAssemblyReference.cache

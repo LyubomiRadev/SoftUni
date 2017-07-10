@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\02.Randomize Words\bin\Debug\02.Randomize Words.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\02.Randomize Words\bin\Debug\02.Randomize Words.exe
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\02.Randomize Words\bin\Debug\02.Randomize Words.pdb
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\02.Randomize Words\obj\Debug\02.Randomize Words.exe
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\02.Randomize Words\obj\Debug\02.Randomize Words.pdb

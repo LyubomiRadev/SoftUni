@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\06.Valid Usernames\bin\Debug\06.Valid Usernames.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\06.Valid Usernames\bin\Debug\06.Valid Usernames.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\06.Valid Usernames\bin\Debug\06.Valid Usernames.pdb
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\06.Valid Usernames\obj\Debug\06.Valid Usernames.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\06.Valid Usernames\obj\Debug\06.Valid Usernames.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\06.Valid Usernames\obj\Debug\06.Valid Usernames.pdb

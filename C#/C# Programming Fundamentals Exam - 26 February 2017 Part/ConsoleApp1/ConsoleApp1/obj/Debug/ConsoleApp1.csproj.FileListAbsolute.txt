@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\My Stuff\SoftUni\Homework\C# Programming Fundamentals Exam - 26 February 2017 Part\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\09.Longer Line\bin\Debug\09.Longer Line.exe.config
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\09.Longer Line\bin\Debug\09.Longer Line.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\09.Longer Line\bin\Debug\09.Longer Line.pdb
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\09.Longer Line\obj\Debug\09.Longer Line.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\09.Longer Line\obj\Debug\09.Longer Line.pdb
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\09.Longer Line\obj\Debug\09.Longer Line.csprojResolveAssemblyReference.cache

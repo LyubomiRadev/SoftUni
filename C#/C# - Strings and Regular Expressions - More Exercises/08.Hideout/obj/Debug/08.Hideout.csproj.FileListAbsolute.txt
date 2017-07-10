@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\08.Hideout\bin\Debug\08.Hideout.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\08.Hideout\bin\Debug\08.Hideout.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\08.Hideout\bin\Debug\08.Hideout.pdb
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\08.Hideout\obj\Debug\08.Hideout.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\08.Hideout\obj\Debug\08.Hideout.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\08.Hideout\obj\Debug\08.Hideout.pdb

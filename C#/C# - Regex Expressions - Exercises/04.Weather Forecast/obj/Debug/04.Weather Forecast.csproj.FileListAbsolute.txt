@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\04.Weather Forecast\bin\Debug\04.Weather Forecast.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\04.Weather Forecast\bin\Debug\04.Weather Forecast.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\04.Weather Forecast\bin\Debug\04.Weather Forecast.pdb
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\04.Weather Forecast\obj\Debug\04.Weather Forecast.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\04.Weather Forecast\obj\Debug\04.Weather Forecast.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\04.Weather Forecast\obj\Debug\04.Weather Forecast.pdb

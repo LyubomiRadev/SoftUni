@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\01. Max Sequence of Equal Elements\05.List Manipulator\bin\Debug\05.List Manipulator.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\01. Max Sequence of Equal Elements\05.List Manipulator\bin\Debug\05.List Manipulator.exe
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\01. Max Sequence of Equal Elements\05.List Manipulator\bin\Debug\05.List Manipulator.pdb
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\01. Max Sequence of Equal Elements\05.List Manipulator\obj\Debug\05.List Manipulator.exe
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\01. Max Sequence of Equal Elements\05.List Manipulator\obj\Debug\05.List Manipulator.pdb
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\01. Max Sequence of Equal Elements\05.List Manipulator\obj\Debug\05.List Manipulator.csprojResolveAssemblyReference.cache

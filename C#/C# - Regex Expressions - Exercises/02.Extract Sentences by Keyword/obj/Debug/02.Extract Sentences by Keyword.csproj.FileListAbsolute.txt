@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\02.Extract Sentences by Keyword\bin\Debug\02.Extract Sentences by Keyword.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\02.Extract Sentences by Keyword\bin\Debug\02.Extract Sentences by Keyword.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\02.Extract Sentences by Keyword\bin\Debug\02.Extract Sentences by Keyword.pdb
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\02.Extract Sentences by Keyword\obj\Debug\02.Extract Sentences by Keyword.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\02.Extract Sentences by Keyword\obj\Debug\02.Extract Sentences by Keyword.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\02.Extract Sentences by Keyword\obj\Debug\02.Extract Sentences by Keyword.pdb

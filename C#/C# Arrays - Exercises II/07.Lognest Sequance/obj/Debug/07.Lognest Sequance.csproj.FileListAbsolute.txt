@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\07.Lognest Sequance\bin\Debug\07.Lognest Sequance.exe.config
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\07.Lognest Sequance\bin\Debug\07.Lognest Sequance.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\07.Lognest Sequance\bin\Debug\07.Lognest Sequance.pdb
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\07.Lognest Sequance\obj\Debug\07.Lognest Sequance.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\07.Lognest Sequance\obj\Debug\07.Lognest Sequance.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\07.Lognest Sequance\obj\Debug\07.Lognest Sequance.pdb

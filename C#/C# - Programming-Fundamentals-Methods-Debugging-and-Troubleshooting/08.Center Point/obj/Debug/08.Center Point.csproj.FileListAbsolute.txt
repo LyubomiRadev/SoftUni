@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\08.Center Point\bin\Debug\08.Center Point.exe.config
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\08.Center Point\bin\Debug\08.Center Point.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\08.Center Point\bin\Debug\08.Center Point.pdb
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\08.Center Point\obj\Debug\08.Center Point.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\08.Center Point\obj\Debug\08.Center Point.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\08.Center Point\obj\Debug\08.Center Point.pdb

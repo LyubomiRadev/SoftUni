@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\03.A Miner Task\bin\Debug\03.A Miner Task.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\03.A Miner Task\bin\Debug\03.A Miner Task.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\03.A Miner Task\bin\Debug\03.A Miner Task.pdb
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\03.A Miner Task\obj\Debug\03.A Miner Task.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\03.A Miner Task\obj\Debug\03.A Miner Task.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\03.A Miner Task\obj\Debug\03.A Miner Task.pdb

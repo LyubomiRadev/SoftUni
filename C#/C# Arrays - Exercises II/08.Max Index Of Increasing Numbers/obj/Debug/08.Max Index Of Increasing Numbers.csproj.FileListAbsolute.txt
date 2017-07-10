@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\08.Max Index Of Increasing Numbers\bin\Debug\08.Max Index Of Increasing Numbers.exe.config
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\08.Max Index Of Increasing Numbers\bin\Debug\08.Max Index Of Increasing Numbers.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\08.Max Index Of Increasing Numbers\bin\Debug\08.Max Index Of Increasing Numbers.pdb
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\08.Max Index Of Increasing Numbers\obj\Debug\08.Max Index Of Increasing Numbers.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\08.Max Index Of Increasing Numbers\obj\Debug\08.Max Index Of Increasing Numbers.pdb

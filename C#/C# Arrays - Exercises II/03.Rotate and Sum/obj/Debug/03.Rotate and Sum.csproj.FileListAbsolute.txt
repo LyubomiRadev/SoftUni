@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\bin\Debug\03.Rotate and Sum.exe.config
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\bin\Debug\03.Rotate and Sum.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\bin\Debug\03.Rotate and Sum.pdb
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\obj\Debug\03.Rotate and Sum.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\obj\Debug\03.Rotate and Sum.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\obj\Debug\03.Rotate and Sum.pdb

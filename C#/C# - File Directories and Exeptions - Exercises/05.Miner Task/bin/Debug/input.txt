@@ -1,0 +1,11 @@
+Gold
+155
+Silver
+10
+Copper
+17
+Gold
+50
+Silver
+30
+stop

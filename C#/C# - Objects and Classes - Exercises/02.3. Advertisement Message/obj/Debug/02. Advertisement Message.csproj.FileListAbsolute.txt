@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Exercises\02.3. Advertisement Message\bin\Debug\_02._3.Advertisement_Message.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Exercises\02.3. Advertisement Message\bin\Debug\_02._3.Advertisement_Message.exe
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Exercises\02.3. Advertisement Message\bin\Debug\_02._3.Advertisement_Message.pdb
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Exercises\02.3. Advertisement Message\obj\Debug\_02._3.Advertisement_Message.exe
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Exercises\02.3. Advertisement Message\obj\Debug\_02._3.Advertisement_Message.pdb

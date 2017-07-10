@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\6. Special Numbers\bin\Debug\_6.Special_Numbers.exe.config
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\6. Special Numbers\bin\Debug\_6.Special_Numbers.exe
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\6. Special Numbers\bin\Debug\_6.Special_Numbers.pdb
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\6. Special Numbers\obj\Debug\_6.Special_Numbers.exe
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\6. Special Numbers\obj\Debug\_6.Special_Numbers.pdb

@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\05.Short Words Sorted\bin\Debug\05.Short Words Sorted.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\05.Short Words Sorted\bin\Debug\05.Short Words Sorted.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\05.Short Words Sorted\bin\Debug\05.Short Words Sorted.pdb
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\05.Short Words Sorted\obj\Debug\05.Short Words Sorted.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\05.Short Words Sorted\obj\Debug\05.Short Words Sorted.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\05.Short Words Sorted\obj\Debug\05.Short Words Sorted.pdb

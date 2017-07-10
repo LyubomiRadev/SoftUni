@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Exam Preparation - IV\02.Array Manipulator\bin\Debug\02.Array Manipulator.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Exam Preparation - IV\02.Array Manipulator\bin\Debug\02.Array Manipulator.exe
+C:\My Stuff\SoftUni\Homework\C# - Exam Preparation - IV\02.Array Manipulator\bin\Debug\02.Array Manipulator.pdb
+C:\My Stuff\SoftUni\Homework\C# - Exam Preparation - IV\02.Array Manipulator\obj\Debug\02.Array Manipulator.exe
+C:\My Stuff\SoftUni\Homework\C# - Exam Preparation - IV\02.Array Manipulator\obj\Debug\02.Array Manipulator.pdb

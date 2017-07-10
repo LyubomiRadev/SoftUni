@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Type SMS\bin\Debug\Type SMS.exe.config
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Type SMS\bin\Debug\Type SMS.exe
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Type SMS\bin\Debug\Type SMS.pdb
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Type SMS\obj\Debug\Type SMS.exe
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Type SMS\obj\Debug\Type SMS.pdb
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Type SMS\obj\Debug\Type SMS.csprojResolveAssemblyReference.cache

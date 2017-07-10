@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\01Count Real Numbers\06.Fold and Sum\bin\Debug\06.Fold and Sum.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\01Count Real Numbers\06.Fold and Sum\bin\Debug\06.Fold and Sum.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\01Count Real Numbers\06.Fold and Sum\bin\Debug\06.Fold and Sum.pdb
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\01Count Real Numbers\06.Fold and Sum\obj\Debug\06.Fold and Sum.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\01Count Real Numbers\06.Fold and Sum\obj\Debug\06.Fold and Sum.pdb
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\01Count Real Numbers\06.Fold and Sum\obj\Debug\06.Fold and Sum.csprojResolveAssemblyReference.cache

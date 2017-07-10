@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\11. Pairs by Difference\bin\Debug\_11.Pairs_by_Difference.exe.config
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\11. Pairs by Difference\bin\Debug\_11.Pairs_by_Difference.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\11. Pairs by Difference\bin\Debug\_11.Pairs_by_Difference.pdb
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\11. Pairs by Difference\obj\Debug\11. Pairs by Difference.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\11. Pairs by Difference\obj\Debug\_11.Pairs_by_Difference.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\11. Pairs by Difference\obj\Debug\_11.Pairs_by_Difference.pdb

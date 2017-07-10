@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\12.Equal Sums\bin\Debug\12.Equal Sums.exe.config
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\12.Equal Sums\bin\Debug\12.Equal Sums.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\12.Equal Sums\bin\Debug\12.Equal Sums.pdb
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\12.Equal Sums\obj\Debug\12.Equal Sums.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\12.Equal Sums\obj\Debug\12.Equal Sums.pdb

@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\01.Censore Word\bin\Debug\01.Censore Word.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\01.Censore Word\bin\Debug\01.Censore Word.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\01.Censore Word\bin\Debug\01.Censore Word.pdb
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\01.Censore Word\obj\Debug\01.Censore Word.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\01.Censore Word\obj\Debug\01.Censore Word.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\01.Censore Word\obj\Debug\01.Censore Word.pdb

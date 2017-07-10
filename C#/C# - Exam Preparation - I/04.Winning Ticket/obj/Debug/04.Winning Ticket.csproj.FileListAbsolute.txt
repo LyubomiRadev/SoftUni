@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\04.Winning Ticket\bin\Debug\04.Winning Ticket.exe.config
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\04.Winning Ticket\bin\Debug\04.Winning Ticket.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\04.Winning Ticket\bin\Debug\04.Winning Ticket.pdb
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\04.Winning Ticket\obj\Debug\04.Winning Ticket.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\04.Winning Ticket\obj\Debug\04.Winning Ticket.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\04.Winning Ticket\obj\Debug\04.Winning Ticket.pdb

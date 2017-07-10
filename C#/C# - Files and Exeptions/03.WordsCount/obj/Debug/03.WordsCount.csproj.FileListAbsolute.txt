@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\03.WordsCount\obj\Debug\03.WordsCount.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\03.WordsCount\bin\Debug\03.WordsCount.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\03.WordsCount\bin\Debug\03.WordsCount.exe
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\03.WordsCount\bin\Debug\03.WordsCount.pdb
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\03.WordsCount\obj\Debug\03.WordsCount.exe
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\03.WordsCount\obj\Debug\03.WordsCount.pdb

@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe.config
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.pdb
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.exe
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.pdb

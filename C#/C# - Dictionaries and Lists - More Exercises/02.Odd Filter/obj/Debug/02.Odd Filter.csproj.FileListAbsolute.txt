@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\02.Odd Filter\bin\Debug\02.Odd Filter.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\02.Odd Filter\bin\Debug\02.Odd Filter.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\02.Odd Filter\bin\Debug\02.Odd Filter.pdb
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\02.Odd Filter\obj\Debug\02.Odd Filter.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\02.Odd Filter\obj\Debug\02.Odd Filter.pdb

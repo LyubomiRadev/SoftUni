@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\03.Big Factorial\bin\Debug\03.Big Factorial.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\03.Big Factorial\bin\Debug\03.Big Factorial.exe
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\03.Big Factorial\bin\Debug\03.Big Factorial.pdb
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\03.Big Factorial\obj\Debug\03.Big Factorial.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\03.Big Factorial\obj\Debug\03.Big Factorial.exe
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\03.Big Factorial\obj\Debug\03.Big Factorial.pdb

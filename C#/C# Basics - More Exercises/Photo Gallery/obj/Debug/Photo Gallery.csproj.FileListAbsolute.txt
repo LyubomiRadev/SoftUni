@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Photo Gallery\bin\Debug\Photo Gallery.exe.config
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Photo Gallery\bin\Debug\Photo Gallery.exe
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Photo Gallery\bin\Debug\Photo Gallery.pdb
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Photo Gallery\obj\Debug\Photo Gallery.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Photo Gallery\obj\Debug\Photo Gallery.exe
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Photo Gallery\obj\Debug\Photo Gallery.pdb

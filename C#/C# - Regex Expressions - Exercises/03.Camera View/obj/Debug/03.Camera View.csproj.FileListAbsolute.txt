@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\03.Camera View\bin\Debug\03.Camera View.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\03.Camera View\bin\Debug\03.Camera View.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\03.Camera View\bin\Debug\03.Camera View.pdb
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\03.Camera View\obj\Debug\03.Camera View.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\03.Camera View\obj\Debug\03.Camera View.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\03.Camera View\obj\Debug\03.Camera View.pdb

@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\05.FibonacciNumber\bin\Debug\05.FibonacciNumber.exe.config
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\05.FibonacciNumber\bin\Debug\05.FibonacciNumber.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\05.FibonacciNumber\bin\Debug\05.FibonacciNumber.pdb
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\05.FibonacciNumber\obj\Debug\05.FibonacciNumber.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\05.FibonacciNumber\obj\Debug\05.FibonacciNumber.pdb

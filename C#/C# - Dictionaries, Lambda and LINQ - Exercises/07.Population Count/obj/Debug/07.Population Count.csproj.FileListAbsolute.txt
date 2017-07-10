@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\07.Population Count\bin\Debug\07.Population Count.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\07.Population Count\bin\Debug\07.Population Count.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\07.Population Count\bin\Debug\07.Population Count.pdb
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\07.Population Count\obj\Debug\07.Population Count.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\07.Population Count\obj\Debug\07.Population Count.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\07.Population Count\obj\Debug\07.Population Count.pdb

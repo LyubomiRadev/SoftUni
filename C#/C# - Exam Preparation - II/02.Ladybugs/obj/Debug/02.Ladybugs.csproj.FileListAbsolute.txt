@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\02.Ladybugs\bin\Debug\02.Ladybugs.exe.config
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\02.Ladybugs\bin\Debug\02.Ladybugs.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\02.Ladybugs\bin\Debug\02.Ladybugs.pdb
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\02.Ladybugs\obj\Debug\02.Ladybugs.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\02.Ladybugs\obj\Debug\02.Ladybugs.pdb
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\02.Ladybugs\obj\Debug\02.Ladybugs.csprojResolveAssemblyReference.cache

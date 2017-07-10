@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\01Count Real Numbers\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\01Count Real Numbers\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\01Count Real Numbers\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.pdb
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\01Count Real Numbers\04. Largest 3 Numbers\obj\Debug\_04.Largest_3_Numbers.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\01Count Real Numbers\04. Largest 3 Numbers\obj\Debug\_04.Largest_3_Numbers.pdb

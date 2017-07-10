@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\Exact Sum of Real Numbers\bin\Debug\Exact Sum of Real Numbers.exe.config
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\Exact Sum of Real Numbers\bin\Debug\Exact Sum of Real Numbers.exe
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\Exact Sum of Real Numbers\bin\Debug\Exact Sum of Real Numbers.pdb
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\Exact Sum of Real Numbers\obj\Debug\Exact Sum of Real Numbers.exe
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\Exact Sum of Real Numbers\obj\Debug\Exact Sum of Real Numbers.pdb

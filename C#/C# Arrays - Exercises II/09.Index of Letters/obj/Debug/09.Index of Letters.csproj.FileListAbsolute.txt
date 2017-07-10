@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\09.Index of Letters\bin\Debug\09.Index of Letters.exe.config
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\09.Index of Letters\bin\Debug\09.Index of Letters.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\09.Index of Letters\bin\Debug\09.Index of Letters.pdb
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\09.Index of Letters\obj\Debug\09.Index of Letters.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\09.Index of Letters\obj\Debug\09.Index of Letters.pdb

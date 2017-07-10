@@ -1,0 +1,5 @@
+c:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\7. Math Power\bin\Debug\_7.Math_Power.exe.config
+c:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\7. Math Power\bin\Debug\_7.Math_Power.exe
+c:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\7. Math Power\bin\Debug\_7.Math_Power.pdb
+c:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\7. Math Power\obj\Debug\_7.Math_Power.exe
+c:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\7. Math Power\obj\Debug\_7.Math_Power.pdb

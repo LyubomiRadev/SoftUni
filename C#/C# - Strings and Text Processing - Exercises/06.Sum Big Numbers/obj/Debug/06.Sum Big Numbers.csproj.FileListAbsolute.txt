@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\06.Sum Big Numbers\bin\Debug\06.Sum Big Numbers.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\06.Sum Big Numbers\bin\Debug\06.Sum Big Numbers.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\06.Sum Big Numbers\bin\Debug\06.Sum Big Numbers.pdb
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\06.Sum Big Numbers\obj\Debug\06.Sum Big Numbers.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\06.Sum Big Numbers\obj\Debug\06.Sum Big Numbers.pdb
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\06.Sum Big Numbers\obj\Debug\06.Sum Big Numbers.csprojResolveAssemblyReference.cache

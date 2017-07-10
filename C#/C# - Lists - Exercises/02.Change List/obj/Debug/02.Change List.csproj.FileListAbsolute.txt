@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\01. Max Sequence of Equal Elements\02.Change List\bin\Debug\02.Change List.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\01. Max Sequence of Equal Elements\02.Change List\bin\Debug\02.Change List.exe
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\01. Max Sequence of Equal Elements\02.Change List\bin\Debug\02.Change List.pdb
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\01. Max Sequence of Equal Elements\02.Change List\obj\Debug\02.Change List.exe
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\01. Max Sequence of Equal Elements\02.Change List\obj\Debug\02.Change List.pdb

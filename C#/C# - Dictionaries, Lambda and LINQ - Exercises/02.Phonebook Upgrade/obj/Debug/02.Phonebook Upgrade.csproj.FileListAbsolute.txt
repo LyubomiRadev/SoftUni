@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\02.Phonebook Upgrade\bin\Debug\02.Phonebook Upgrade.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\02.Phonebook Upgrade\bin\Debug\02.Phonebook Upgrade.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\02.Phonebook Upgrade\bin\Debug\02.Phonebook Upgrade.pdb
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\02.Phonebook Upgrade\obj\Debug\02.Phonebook Upgrade.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\02.Phonebook Upgrade\obj\Debug\02.Phonebook Upgrade.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\02.Phonebook Upgrade\obj\Debug\02.Phonebook Upgrade.pdb

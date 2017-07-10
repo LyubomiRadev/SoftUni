@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\03.Search for a Number\bin\Debug\03.Search for a Number.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\03.Search for a Number\bin\Debug\03.Search for a Number.exe
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\03.Search for a Number\bin\Debug\03.Search for a Number.pdb
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\03.Search for a Number\obj\Debug\03.Search for a Number.exe
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\03.Search for a Number\obj\Debug\03.Search for a Number.pdb

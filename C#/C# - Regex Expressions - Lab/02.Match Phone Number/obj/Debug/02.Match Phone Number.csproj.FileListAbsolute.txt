@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\02.Match Phone Number\bin\Debug\02.Match Phone Number.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\02.Match Phone Number\bin\Debug\02.Match Phone Number.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\02.Match Phone Number\bin\Debug\02.Match Phone Number.pdb
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\02.Match Phone Number\obj\Debug\02.Match Phone Number.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\02.Match Phone Number\obj\Debug\02.Match Phone Number.pdb

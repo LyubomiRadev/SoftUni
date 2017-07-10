@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Lab\02.Occurance\bin\Debug\02.Occurance.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Lab\02.Occurance\bin\Debug\02.Occurance.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Lab\02.Occurance\bin\Debug\02.Occurance.pdb
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Lab\02.Occurance\obj\Debug\02.Occurance.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Lab\02.Occurance\obj\Debug\02.Occurance.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Lab\02.Occurance\obj\Debug\02.Occurance.pdb

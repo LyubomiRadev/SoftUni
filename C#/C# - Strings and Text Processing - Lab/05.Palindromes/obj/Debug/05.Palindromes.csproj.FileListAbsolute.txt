@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Lab\01.Reverse String\05.Palindromes\bin\Debug\05.Palindromes.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Lab\01.Reverse String\05.Palindromes\bin\Debug\05.Palindromes.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Lab\01.Reverse String\05.Palindromes\bin\Debug\05.Palindromes.pdb
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Lab\01.Reverse String\05.Palindromes\obj\Debug\05.Palindromes.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Lab\01.Reverse String\05.Palindromes\obj\Debug\05.Palindromes.pdb

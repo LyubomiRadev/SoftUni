@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\04.Merge Files\bin\Debug\04.Merge Files.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\04.Merge Files\bin\Debug\04.Merge Files.exe
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\04.Merge Files\bin\Debug\04.Merge Files.pdb
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\04.Merge Files\obj\Debug\04.Merge Files.exe
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\04.Merge Files\obj\Debug\04.Merge Files.pdb

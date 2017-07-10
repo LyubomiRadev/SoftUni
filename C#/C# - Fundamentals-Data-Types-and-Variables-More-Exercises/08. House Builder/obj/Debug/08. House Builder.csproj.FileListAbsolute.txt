@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\08. House Builder\bin\Debug\_08.House_Builder.exe.config
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\08. House Builder\bin\Debug\_08.House_Builder.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\08. House Builder\bin\Debug\_08.House_Builder.pdb
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\08. House Builder\obj\Debug\08. House Builder.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\08. House Builder\obj\Debug\_08.House_Builder.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\08. House Builder\obj\Debug\_08.House_Builder.pdb

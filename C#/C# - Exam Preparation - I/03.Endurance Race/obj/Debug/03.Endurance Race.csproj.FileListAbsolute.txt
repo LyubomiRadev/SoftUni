@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\03.Endurance Race\bin\Debug\03.Endurance Race.exe.config
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\03.Endurance Race\bin\Debug\03.Endurance Race.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\03.Endurance Race\bin\Debug\03.Endurance Race.pdb
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\03.Endurance Race\obj\Debug\03.Endurance Race.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\03.Endurance Race\obj\Debug\03.Endurance Race.pdb
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\03.Endurance Race\obj\Debug\03.Endurance Race.csprojResolveAssemblyReference.cache

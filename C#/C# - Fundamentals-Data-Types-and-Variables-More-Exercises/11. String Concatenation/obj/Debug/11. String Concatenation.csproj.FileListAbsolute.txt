@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\11. String Concatenation\obj\Debug\11. String Concatenation.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\11. String Concatenation\bin\Debug\_11.String_Concatenation.exe.config
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\11. String Concatenation\bin\Debug\_11.String_Concatenation.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\11. String Concatenation\bin\Debug\_11.String_Concatenation.pdb
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\11. String Concatenation\obj\Debug\_11.String_Concatenation.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\11. String Concatenation\obj\Debug\_11.String_Concatenation.pdb

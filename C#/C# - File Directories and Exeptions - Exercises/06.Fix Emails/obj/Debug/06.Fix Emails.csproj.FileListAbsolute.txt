@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\06.Fix Emails\bin\Debug\06.Fix Emails.exe.config
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\06.Fix Emails\bin\Debug\06.Fix Emails.exe
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\06.Fix Emails\bin\Debug\06.Fix Emails.pdb
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\06.Fix Emails\obj\Debug\06.Fix Emails.exe
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\06.Fix Emails\obj\Debug\06.Fix Emails.pdb

@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\10.Cube Properties\bin\Debug\10.Cube Properties.exe.config
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\10.Cube Properties\bin\Debug\10.Cube Properties.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\10.Cube Properties\bin\Debug\10.Cube Properties.pdb
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\10.Cube Properties\obj\Debug\10.Cube Properties.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\10.Cube Properties\obj\Debug\10.Cube Properties.pdb

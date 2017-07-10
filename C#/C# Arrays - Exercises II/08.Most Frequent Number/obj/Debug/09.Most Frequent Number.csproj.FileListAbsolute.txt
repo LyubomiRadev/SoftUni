@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\09.Most Frequent Number\bin\Debug\09.Most Frequent Number.exe.config
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\09.Most Frequent Number\bin\Debug\09.Most Frequent Number.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\09.Most Frequent Number\bin\Debug\09.Most Frequent Number.pdb
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\09.Most Frequent Number\obj\Debug\09.Most Frequent Number.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\09.Most Frequent Number\obj\Debug\09.Most Frequent Number.pdb
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\09.Most Frequent Number\obj\Debug\09.Most Frequent Number.csprojResolveAssemblyReference.cache

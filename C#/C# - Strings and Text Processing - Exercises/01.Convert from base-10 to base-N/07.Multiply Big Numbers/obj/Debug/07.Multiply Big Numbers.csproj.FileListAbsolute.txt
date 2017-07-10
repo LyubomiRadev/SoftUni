@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\01.Convert from base-10 to base-N\07.Multiply Big Numbers\bin\Debug\07.Multiply Big Numbers.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\01.Convert from base-10 to base-N\07.Multiply Big Numbers\bin\Debug\07.Multiply Big Numbers.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\01.Convert from base-10 to base-N\07.Multiply Big Numbers\bin\Debug\07.Multiply Big Numbers.pdb
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\01.Convert from base-10 to base-N\07.Multiply Big Numbers\obj\Debug\07.Multiply Big Numbers.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\01.Convert from base-10 to base-N\07.Multiply Big Numbers\obj\Debug\07.Multiply Big Numbers.pdb

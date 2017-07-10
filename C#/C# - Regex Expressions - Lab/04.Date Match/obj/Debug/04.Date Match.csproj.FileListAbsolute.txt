@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\04.Date Match\bin\Debug\04.Date Match.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\04.Date Match\bin\Debug\04.Date Match.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\04.Date Match\bin\Debug\04.Date Match.pdb
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\04.Date Match\obj\Debug\04.Date Match.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\04.Date Match\obj\Debug\04.Date Match.pdb
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\04.Date Match\obj\Debug\04.Date Match.csprojResolveAssemblyReference.cache

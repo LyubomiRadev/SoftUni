@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\08.Library Book Modefication\bin\Debug\08.Library Book Modefication.exe.config
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\08.Library Book Modefication\bin\Debug\08.Library Book Modefication.exe
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\08.Library Book Modefication\bin\Debug\08.Library Book Modefication.pdb
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\08.Library Book Modefication\obj\Debug\08.Library Book Modefication.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\08.Library Book Modefication\obj\Debug\08.Library Book Modefication.exe
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\08.Library Book Modefication\obj\Debug\08.Library Book Modefication.pdb

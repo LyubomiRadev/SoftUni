@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\01.Extract emails\01.Extract emails\bin\Debug\01.Extract emails.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\01.Extract emails\01.Extract emails\bin\Debug\01.Extract emails.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\01.Extract emails\01.Extract emails\bin\Debug\01.Extract emails.pdb
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\01.Extract emails\01.Extract emails\obj\Debug\01.Extract emails.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\01.Extract emails\01.Extract emails\obj\Debug\01.Extract emails.pdb
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\01.Extract emails\01.Extract emails\obj\Debug\01.Extract emails.csprojResolveAssemblyReference.cache

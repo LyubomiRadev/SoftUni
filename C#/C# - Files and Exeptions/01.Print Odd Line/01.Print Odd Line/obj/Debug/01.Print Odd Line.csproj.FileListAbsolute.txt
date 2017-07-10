@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\01.Print Odd Line\01.Print Odd Line\bin\Debug\01.Print Odd Line.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\01.Print Odd Line\01.Print Odd Line\bin\Debug\01.Print Odd Line.exe
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\01.Print Odd Line\01.Print Odd Line\bin\Debug\01.Print Odd Line.pdb
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\01.Print Odd Line\01.Print Odd Line\obj\Debug\01.Print Odd Line.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\01.Print Odd Line\01.Print Odd Line\obj\Debug\01.Print Odd Line.exe
+C:\My Stuff\SoftUni\Homework\C# - Files and Exeptions\01.Print Odd Line\01.Print Odd Line\obj\Debug\01.Print Odd Line.pdb

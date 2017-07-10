@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Sweet Dessert", "01.Sweet Dessert\01.Sweet Dessert.csproj", "{198C3CB5-3DB5-4270-955E-61D48AEBD4EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Array Manipulator", "..\02.Array Manipulator\02.Array Manipulator.csproj", "{3BE30667-48E0-457A-9E33-89A69190155F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Football League", "..\03. Football League\03. Football League.csproj", "{02294021-9BC8-416B-853E-BBBA611BA956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Cubic Message", "..\04.Cubic Message\04.Cubic Message.csproj", "{35BA8317-21CD-4FC2-95CF-6093B8F62B1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{198C3CB5-3DB5-4270-955E-61D48AEBD4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198C3CB5-3DB5-4270-955E-61D48AEBD4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198C3CB5-3DB5-4270-955E-61D48AEBD4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198C3CB5-3DB5-4270-955E-61D48AEBD4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BE30667-48E0-457A-9E33-89A69190155F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE30667-48E0-457A-9E33-89A69190155F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE30667-48E0-457A-9E33-89A69190155F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE30667-48E0-457A-9E33-89A69190155F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02294021-9BC8-416B-853E-BBBA611BA956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02294021-9BC8-416B-853E-BBBA611BA956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02294021-9BC8-416B-853E-BBBA611BA956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02294021-9BC8-416B-853E-BBBA611BA956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35BA8317-21CD-4FC2-95CF-6093B8F62B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35BA8317-21CD-4FC2-95CF-6093B8F62B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35BA8317-21CD-4FC2-95CF-6093B8F62B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35BA8317-21CD-4FC2-95CF-6093B8F62B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Problem 13. Game of Numbers\bin\Debug\Problem_13.Game_of_Numbers.exe.config
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Problem 13. Game of Numbers\bin\Debug\Problem_13.Game_of_Numbers.exe
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Problem 13. Game of Numbers\bin\Debug\Problem_13.Game_of_Numbers.pdb
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Problem 13. Game of Numbers\obj\Debug\Problem_13.Game_of_Numbers.exe
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Problem 13. Game of Numbers\obj\Debug\Problem_13.Game_of_Numbers.pdb
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Problem 13. Game of Numbers\obj\Debug\Problem 13. Game of Numbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Training Hall Equipement\bin\Debug\Training Hall Equipement.exe.config
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Training Hall Equipement\bin\Debug\Training Hall Equipement.exe
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Training Hall Equipement\bin\Debug\Training Hall Equipement.pdb
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Training Hall Equipement\obj\Debug\Training Hall Equipement.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Training Hall Equipement\obj\Debug\Training Hall Equipement.exe
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Training Hall Equipement\obj\Debug\Training Hall Equipement.pdb

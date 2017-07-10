@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Exercise One\obj\Debug\Exercise One.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Exercise One\bin\Debug\Exercise One.exe.config
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Exercise One\bin\Debug\Exercise One.exe
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Exercise One\bin\Debug\Exercise One.pdb
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Exercise One\obj\Debug\Exercise One.exe
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\Exercise One\obj\Debug\Exercise One.pdb

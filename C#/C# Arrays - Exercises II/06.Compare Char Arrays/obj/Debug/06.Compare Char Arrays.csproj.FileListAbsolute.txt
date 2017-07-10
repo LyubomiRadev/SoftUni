@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\06.Compare Char Arrays\bin\Debug\06.Compare Char Arrays.exe.config
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\06.Compare Char Arrays\bin\Debug\06.Compare Char Arrays.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\06.Compare Char Arrays\bin\Debug\06.Compare Char Arrays.pdb
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\06.Compare Char Arrays\obj\Debug\06.Compare Char Arrays.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\03.Rotate and Sum\06.Compare Char Arrays\obj\Debug\06.Compare Char Arrays.pdb

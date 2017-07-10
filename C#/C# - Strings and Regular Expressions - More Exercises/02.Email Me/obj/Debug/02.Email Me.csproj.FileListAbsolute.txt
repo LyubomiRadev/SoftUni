@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\02.Email Me\bin\Debug\02.Email Me.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\02.Email Me\bin\Debug\02.Email Me.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\02.Email Me\bin\Debug\02.Email Me.pdb
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\02.Email Me\obj\Debug\02.Email Me.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\02.Email Me\obj\Debug\02.Email Me.pdb

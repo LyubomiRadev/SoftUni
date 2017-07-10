@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\7. Triples of Latin Letters\bin\Debug\_7.Triples_of_Latin_Letters.exe.config
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\7. Triples of Latin Letters\bin\Debug\_7.Triples_of_Latin_Letters.exe
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\7. Triples of Latin Letters\bin\Debug\_7.Triples_of_Latin_Letters.pdb
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\7. Triples of Latin Letters\obj\Debug\_7.Triples_of_Latin_Letters.exe
+C:\My Stuff\SoftUni\Exercises\Data-Types-and-Variables-Lab\Centuries to Minutes\7. Triples of Latin Letters\obj\Debug\_7.Triples_of_Latin_Letters.pdb

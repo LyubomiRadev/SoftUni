@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\01.Most Frequant Number\obj\Debug\01.Most Frequant Number.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\01.Most Frequant Number\bin\Debug\01.Most Frequant Number.exe.config
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\01.Most Frequant Number\bin\Debug\01.Most Frequant Number.exe
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\01.Most Frequant Number\bin\Debug\01.Most Frequant Number.pdb
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\01.Most Frequant Number\obj\Debug\01.Most Frequant Number.exe
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\01.Most Frequant Number\01.Most Frequant Number\obj\Debug\01.Most Frequant Number.pdb

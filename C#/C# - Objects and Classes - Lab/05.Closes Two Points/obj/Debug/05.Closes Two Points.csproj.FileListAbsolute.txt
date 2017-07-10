@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\05.Closes Two Points\bin\Debug\05.Closes Two Points.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\05.Closes Two Points\bin\Debug\05.Closes Two Points.exe
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\05.Closes Two Points\bin\Debug\05.Closes Two Points.pdb
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\05.Closes Two Points\obj\Debug\05.Closes Two Points.exe
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\05.Closes Two Points\obj\Debug\05.Closes Two Points.pdb
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\05.Closes Two Points\obj\Debug\05.Closes Two Points.csprojResolveAssemblyReference.cache

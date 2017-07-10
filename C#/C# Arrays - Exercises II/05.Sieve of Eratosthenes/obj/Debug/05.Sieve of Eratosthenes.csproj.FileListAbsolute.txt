@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\05.Sieve of Eratosthenes\bin\Debug\05.Sieve of Eratosthenes.exe.config
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\05.Sieve of Eratosthenes\bin\Debug\05.Sieve of Eratosthenes.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\05.Sieve of Eratosthenes\bin\Debug\05.Sieve of Eratosthenes.pdb
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\05.Sieve of Eratosthenes\obj\Debug\05.Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\05.Sieve of Eratosthenes\obj\Debug\05.Sieve of Eratosthenes.exe
+C:\My Stuff\SoftUni\Homework\C# Arrays - Exercises II\05.Sieve of Eratosthenes\obj\Debug\05.Sieve of Eratosthenes.pdb

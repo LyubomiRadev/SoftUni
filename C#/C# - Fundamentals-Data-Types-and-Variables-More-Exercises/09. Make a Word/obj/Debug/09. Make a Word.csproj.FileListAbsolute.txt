@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\09. Make a Word\bin\Debug\_09.Make_a_Word.exe.config
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\09. Make a Word\bin\Debug\_09.Make_a_Word.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\09. Make a Word\bin\Debug\_09.Make_a_Word.pdb
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\09. Make a Word\obj\Debug\_09.Make_a_Word.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\09. Make a Word\obj\Debug\_09.Make_a_Word.pdb

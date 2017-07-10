@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\3.Sign of Integer Number\3.Sign of Integer Number\bin\Debug\3.Sign of Integer Number.exe.config
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\3.Sign of Integer Number\3.Sign of Integer Number\bin\Debug\3.Sign of Integer Number.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\3.Sign of Integer Number\3.Sign of Integer Number\bin\Debug\3.Sign of Integer Number.pdb
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\3.Sign of Integer Number\3.Sign of Integer Number\obj\Debug\3.Sign of Integer Number.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\3.Sign of Integer Number\3.Sign of Integer Number\obj\Debug\3.Sign of Integer Number.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\3.Sign of Integer Number\3.Sign of Integer Number\obj\Debug\3.Sign of Integer Number.pdb

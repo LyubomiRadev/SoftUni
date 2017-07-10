@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\13. Decrypting Message\bin\Debug\_13.Decrypting_Message.exe.config
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\13. Decrypting Message\bin\Debug\_13.Decrypting_Message.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\13. Decrypting Message\bin\Debug\_13.Decrypting_Message.pdb
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\13. Decrypting Message\obj\Debug\_13.Decrypting_Message.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\13. Decrypting Message\obj\Debug\_13.Decrypting_Message.pdb

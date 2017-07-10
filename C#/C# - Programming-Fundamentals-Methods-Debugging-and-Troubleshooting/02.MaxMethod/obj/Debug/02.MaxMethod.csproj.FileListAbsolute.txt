@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\02.MaxMethod\bin\Debug\02.MaxMethod.exe.config
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\02.MaxMethod\bin\Debug\02.MaxMethod.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\02.MaxMethod\bin\Debug\02.MaxMethod.pdb
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\02.MaxMethod\obj\Debug\02.MaxMethod.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\02.MaxMethod\obj\Debug\02.MaxMethod.pdb

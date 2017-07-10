@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\07.Byte Flip\bin\Debug\07.Byte Flip.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\07.Byte Flip\bin\Debug\07.Byte Flip.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\07.Byte Flip\bin\Debug\07.Byte Flip.pdb
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\07.Byte Flip\obj\Debug\07.Byte Flip.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\07.Byte Flip\obj\Debug\07.Byte Flip.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\07.Byte Flip\obj\Debug\07.Byte Flip.pdb

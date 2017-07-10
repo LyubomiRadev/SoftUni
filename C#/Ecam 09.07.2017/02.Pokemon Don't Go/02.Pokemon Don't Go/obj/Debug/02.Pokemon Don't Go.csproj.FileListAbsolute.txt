@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\Ecam 09.07.2017\02.Pokemon Don't Go\02.Pokemon Don't Go\bin\Debug\02.Pokemon Don't Go.exe.config
+C:\My Stuff\SoftUni\Homework\Ecam 09.07.2017\02.Pokemon Don't Go\02.Pokemon Don't Go\bin\Debug\02.Pokemon Don't Go.exe
+C:\My Stuff\SoftUni\Homework\Ecam 09.07.2017\02.Pokemon Don't Go\02.Pokemon Don't Go\bin\Debug\02.Pokemon Don't Go.pdb
+C:\My Stuff\SoftUni\Homework\Ecam 09.07.2017\02.Pokemon Don't Go\02.Pokemon Don't Go\obj\Debug\02.Pokemon Don't Go.exe
+C:\My Stuff\SoftUni\Homework\Ecam 09.07.2017\02.Pokemon Don't Go\02.Pokemon Don't Go\obj\Debug\02.Pokemon Don't Go.pdb

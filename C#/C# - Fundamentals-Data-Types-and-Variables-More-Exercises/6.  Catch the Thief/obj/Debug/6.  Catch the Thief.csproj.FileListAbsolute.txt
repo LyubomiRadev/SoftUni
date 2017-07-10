@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\6.  Catch the Thief\bin\Debug\_6.Catch_the_Thief.exe.config
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\6.  Catch the Thief\bin\Debug\_6.Catch_the_Thief.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\6.  Catch the Thief\bin\Debug\_6.Catch_the_Thief.pdb
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\6.  Catch the Thief\obj\Debug\6.  Catch the Thief.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\6.  Catch the Thief\obj\Debug\_6.Catch_the_Thief.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\6.  Catch the Thief\obj\Debug\_6.Catch_the_Thief.pdb

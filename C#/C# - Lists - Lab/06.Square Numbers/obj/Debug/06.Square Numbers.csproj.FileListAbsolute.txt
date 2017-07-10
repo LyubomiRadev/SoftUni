@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Lists - Lab\01.Remove Negative and Reverse\06.Square Numbers\bin\Debug\06.Square Numbers.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Lists - Lab\01.Remove Negative and Reverse\06.Square Numbers\bin\Debug\06.Square Numbers.exe
+C:\My Stuff\SoftUni\Homework\C# - Lists - Lab\01.Remove Negative and Reverse\06.Square Numbers\bin\Debug\06.Square Numbers.pdb
+C:\My Stuff\SoftUni\Homework\C# - Lists - Lab\01.Remove Negative and Reverse\06.Square Numbers\obj\Debug\06.Square Numbers.exe
+C:\My Stuff\SoftUni\Homework\C# - Lists - Lab\01.Remove Negative and Reverse\06.Square Numbers\obj\Debug\06.Square Numbers.pdb

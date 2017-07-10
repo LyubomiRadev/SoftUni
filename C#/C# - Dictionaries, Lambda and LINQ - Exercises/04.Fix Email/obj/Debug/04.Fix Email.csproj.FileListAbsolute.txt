@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\04.Fix Email\bin\Debug\04.Fix Email.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\04.Fix Email\bin\Debug\04.Fix Email.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\04.Fix Email\bin\Debug\04.Fix Email.pdb
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\04.Fix Email\obj\Debug\04.Fix Email.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\04.Fix Email\obj\Debug\04.Fix Email.pdb

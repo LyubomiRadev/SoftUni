@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Exam Preparation - III\01.SoftUni Coffee Orders\01.SoftUni Coffee Orders\bin\Debug\01.SoftUni Coffee Orders.exe.config
+C:\My Stuff\SoftUni\Homework\Exam Preparation - III\01.SoftUni Coffee Orders\01.SoftUni Coffee Orders\bin\Debug\01.SoftUni Coffee Orders.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - III\01.SoftUni Coffee Orders\01.SoftUni Coffee Orders\bin\Debug\01.SoftUni Coffee Orders.pdb
+C:\My Stuff\SoftUni\Homework\Exam Preparation - III\01.SoftUni Coffee Orders\01.SoftUni Coffee Orders\obj\Debug\01.SoftUni Coffee Orders.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\Exam Preparation - III\01.SoftUni Coffee Orders\01.SoftUni Coffee Orders\obj\Debug\01.SoftUni Coffee Orders.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - III\01.SoftUni Coffee Orders\01.SoftUni Coffee Orders\obj\Debug\01.SoftUni Coffee Orders.pdb

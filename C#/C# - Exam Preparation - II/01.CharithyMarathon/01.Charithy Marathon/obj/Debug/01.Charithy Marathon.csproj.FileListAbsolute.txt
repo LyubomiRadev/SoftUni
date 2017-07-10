@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\01.CharithyMarathon\01.Charithy Marathon\bin\Debug\01.Charithy Marathon.exe.config
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\01.CharithyMarathon\01.Charithy Marathon\bin\Debug\01.Charithy Marathon.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\01.CharithyMarathon\01.Charithy Marathon\bin\Debug\01.Charithy Marathon.pdb
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\01.CharithyMarathon\01.Charithy Marathon\obj\Debug\01.Charithy Marathon.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\01.CharithyMarathon\01.Charithy Marathon\obj\Debug\01.Charithy Marathon.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\01.CharithyMarathon\01.Charithy Marathon\obj\Debug\01.Charithy Marathon.pdb

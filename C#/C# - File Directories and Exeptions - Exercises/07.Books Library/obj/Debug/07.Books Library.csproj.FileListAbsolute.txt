@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\07.Books Library\bin\Debug\07.Books Library.exe.config
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\07.Books Library\bin\Debug\07.Books Library.exe
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\07.Books Library\bin\Debug\07.Books Library.pdb
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\07.Books Library\obj\Debug\07.Books Library.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\07.Books Library\obj\Debug\07.Books Library.exe
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\07.Books Library\obj\Debug\07.Books Library.pdb

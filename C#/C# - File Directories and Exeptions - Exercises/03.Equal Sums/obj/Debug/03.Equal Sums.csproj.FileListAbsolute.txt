@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\03.Equal Sums\bin\Debug\03.Equal Sums.exe.config
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\03.Equal Sums\bin\Debug\03.Equal Sums.exe
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\03.Equal Sums\bin\Debug\03.Equal Sums.pdb
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\03.Equal Sums\obj\Debug\03.Equal Sums.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\03.Equal Sums\obj\Debug\03.Equal Sums.exe
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\03.Equal Sums\obj\Debug\03.Equal Sums.pdb

@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Ecam 09.07.2017\01.Poke Mon\bin\Debug\01.Poke Mon.exe.config
+C:\My Stuff\SoftUni\Homework\Ecam 09.07.2017\01.Poke Mon\bin\Debug\01.Poke Mon.exe
+C:\My Stuff\SoftUni\Homework\Ecam 09.07.2017\01.Poke Mon\bin\Debug\01.Poke Mon.pdb
+C:\My Stuff\SoftUni\Homework\Ecam 09.07.2017\01.Poke Mon\obj\Debug\01.Poke Mon.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\Ecam 09.07.2017\01.Poke Mon\obj\Debug\01.Poke Mon.exe
+C:\My Stuff\SoftUni\Homework\Ecam 09.07.2017\01.Poke Mon\obj\Debug\01.Poke Mon.pdb

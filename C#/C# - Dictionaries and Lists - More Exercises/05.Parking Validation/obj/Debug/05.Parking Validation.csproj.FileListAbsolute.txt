@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\05.Parking Validation\bin\Debug\05.Parking Validation.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\05.Parking Validation\bin\Debug\05.Parking Validation.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\05.Parking Validation\bin\Debug\05.Parking Validation.pdb
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\05.Parking Validation\obj\Debug\05.Parking Validation.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\05.Parking Validation\obj\Debug\05.Parking Validation.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries and Lists - More Exercises\01.Sort Times\05.Parking Validation\obj\Debug\05.Parking Validation.pdb

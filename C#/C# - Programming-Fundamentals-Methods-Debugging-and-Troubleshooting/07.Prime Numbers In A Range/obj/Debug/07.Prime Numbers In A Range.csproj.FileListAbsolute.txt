@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\07.Prime Numbers In A Range\bin\Debug\07.Prime Numbers In A Range.exe.config
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\07.Prime Numbers In A Range\bin\Debug\07.Prime Numbers In A Range.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\07.Prime Numbers In A Range\bin\Debug\07.Prime Numbers In A Range.pdb
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\07.Prime Numbers In A Range\obj\Debug\07.Prime Numbers In A Range.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\07.Prime Numbers In A Range\obj\Debug\07.Prime Numbers In A Range.pdb

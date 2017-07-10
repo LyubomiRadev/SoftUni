@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Lab\03.Text Filter\bin\Debug\03.Text Filter.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Lab\03.Text Filter\bin\Debug\03.Text Filter.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Lab\03.Text Filter\bin\Debug\03.Text Filter.pdb
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Lab\03.Text Filter\obj\Debug\03.Text Filter.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Lab\03.Text Filter\obj\Debug\03.Text Filter.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Lab\03.Text Filter\obj\Debug\03.Text Filter.pdb

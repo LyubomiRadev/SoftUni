@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\03.Sum, Min, Max, Average\bin\Debug\03.Sum, Min, Max, Average.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\03.Sum, Min, Max, Average\bin\Debug\03.Sum, Min, Max, Average.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\03.Sum, Min, Max, Average\bin\Debug\03.Sum, Min, Max, Average.pdb
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\03.Sum, Min, Max, Average\obj\Debug\03.Sum, Min, Max, Average.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\03.Sum, Min, Max, Average\obj\Debug\03.Sum, Min, Max, Average.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\03.Sum, Min, Max, Average\obj\Debug\03.Sum, Min, Max, Average.pdb

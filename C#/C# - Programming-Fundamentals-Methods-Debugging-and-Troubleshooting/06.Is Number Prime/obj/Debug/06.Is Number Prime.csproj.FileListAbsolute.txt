@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\06.Is Number Prime\bin\Debug\06.Is Number Prime.exe.config
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\06.Is Number Prime\bin\Debug\06.Is Number Prime.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\06.Is Number Prime\bin\Debug\06.Is Number Prime.pdb
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\06.Is Number Prime\obj\Debug\06.Is Number Prime.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\06.Is Number Prime\obj\Debug\06.Is Number Prime.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\06.Is Number Prime\obj\Debug\06.Is Number Prime.pdb

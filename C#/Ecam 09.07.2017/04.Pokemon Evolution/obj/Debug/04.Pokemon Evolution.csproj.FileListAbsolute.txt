@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Ecam 09.07.2017\04.Pokemon Evolution\bin\Debug\04.Pokemon Evolution.exe.config
+C:\My Stuff\SoftUni\Homework\Ecam 09.07.2017\04.Pokemon Evolution\bin\Debug\04.Pokemon Evolution.exe
+C:\My Stuff\SoftUni\Homework\Ecam 09.07.2017\04.Pokemon Evolution\bin\Debug\04.Pokemon Evolution.pdb
+C:\My Stuff\SoftUni\Homework\Ecam 09.07.2017\04.Pokemon Evolution\obj\Debug\04.Pokemon Evolution.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\Ecam 09.07.2017\04.Pokemon Evolution\obj\Debug\04.Pokemon Evolution.exe
+C:\My Stuff\SoftUni\Homework\Ecam 09.07.2017\04.Pokemon Evolution\obj\Debug\04.Pokemon Evolution.pdb

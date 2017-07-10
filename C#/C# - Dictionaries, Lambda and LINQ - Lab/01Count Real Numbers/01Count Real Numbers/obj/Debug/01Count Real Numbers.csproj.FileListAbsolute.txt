@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\01Count Real Numbers\01Count Real Numbers\bin\Debug\01Count Real Numbers.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\01Count Real Numbers\01Count Real Numbers\bin\Debug\01Count Real Numbers.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\01Count Real Numbers\01Count Real Numbers\bin\Debug\01Count Real Numbers.pdb
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\01Count Real Numbers\01Count Real Numbers\obj\Debug\01Count Real Numbers.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\01Count Real Numbers\01Count Real Numbers\obj\Debug\01Count Real Numbers.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\01Count Real Numbers\01Count Real Numbers\obj\Debug\01Count Real Numbers.pdb

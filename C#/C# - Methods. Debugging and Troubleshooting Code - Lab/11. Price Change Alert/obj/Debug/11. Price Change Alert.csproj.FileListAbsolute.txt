@@ -1,0 +1,5 @@
+C:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\11. Price Change Alert\bin\Debug\_11.Price_Change_Alert.exe.config
+C:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\11. Price Change Alert\bin\Debug\_11.Price_Change_Alert.exe
+C:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\11. Price Change Alert\bin\Debug\_11.Price_Change_Alert.pdb
+C:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\11. Price Change Alert\obj\Debug\_11.Price_Change_Alert.exe
+C:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\11. Price Change Alert\obj\Debug\_11.Price_Change_Alert.pdb

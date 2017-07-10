@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\04.4. Max Sequence of Equal Elements\bin\Debug\_04._4.Max_Sequence_of_Equal_Elements.exe.config
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\04.4. Max Sequence of Equal Elements\bin\Debug\_04._4.Max_Sequence_of_Equal_Elements.exe
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\04.4. Max Sequence of Equal Elements\bin\Debug\_04._4.Max_Sequence_of_Equal_Elements.pdb
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\04.4. Max Sequence of Equal Elements\obj\Debug\_04._4.Max_Sequence_of_Equal_Elements.exe
+C:\My Stuff\SoftUni\Homework\C# - File Directories and Exeptions - Exercises\04.4. Max Sequence of Equal Elements\obj\Debug\_04._4.Max_Sequence_of_Equal_Elements.pdb

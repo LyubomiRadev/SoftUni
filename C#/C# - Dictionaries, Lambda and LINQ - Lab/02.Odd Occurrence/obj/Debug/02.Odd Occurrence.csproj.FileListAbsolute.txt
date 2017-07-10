@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\02.Odd Occurrence\bin\Debug\02.Odd Occurrence.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\02.Odd Occurrence\bin\Debug\02.Odd Occurrence.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\02.Odd Occurrence\bin\Debug\02.Odd Occurrence.pdb
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\02.Odd Occurrence\obj\Debug\02.Odd Occurrence.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\02.Odd Occurrence\obj\Debug\02.Odd Occurrence.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Lab\02.Odd Occurrence\obj\Debug\02.Odd Occurrence.pdb

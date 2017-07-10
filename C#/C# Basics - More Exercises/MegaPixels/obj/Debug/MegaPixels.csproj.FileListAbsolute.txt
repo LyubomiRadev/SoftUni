@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\MegaPixels\bin\Debug\MegaPixels.exe.config
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\MegaPixels\bin\Debug\MegaPixels.exe
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\MegaPixels\bin\Debug\MegaPixels.pdb
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\MegaPixels\obj\Debug\MegaPixels.exe
+C:\My Stuff\SoftUni\Exercises\Day 1\Exercise One\MegaPixels\obj\Debug\MegaPixels.pdb

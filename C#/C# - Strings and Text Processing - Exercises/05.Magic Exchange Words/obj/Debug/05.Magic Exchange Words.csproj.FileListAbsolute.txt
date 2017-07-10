@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\05.Magic Exchange Words\obj\Debug\05.Magic Exchange Words.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\05.Magic Exchange Words\bin\Debug\05.Magic Exchange Words.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\05.Magic Exchange Words\bin\Debug\05.Magic Exchange Words.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\05.Magic Exchange Words\bin\Debug\05.Magic Exchange Words.pdb
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\05.Magic Exchange Words\obj\Debug\05.Magic Exchange Words.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Text Processing - Exercises\05.Magic Exchange Words\obj\Debug\05.Magic Exchange Words.pdb

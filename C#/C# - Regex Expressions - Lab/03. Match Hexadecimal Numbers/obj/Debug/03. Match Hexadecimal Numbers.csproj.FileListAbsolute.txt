@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\01.Match Full Name\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\01.Match Full Name\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\01.Match Full Name\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.pdb
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\01.Match Full Name\03. Match Hexadecimal Numbers\obj\Debug\_03.Match_Hexadecimal_Numbers.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\01.Match Full Name\03. Match Hexadecimal Numbers\obj\Debug\_03.Match_Hexadecimal_Numbers.pdb

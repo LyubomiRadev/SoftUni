@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\14. Boat Simulator\bin\Debug\_14.Boat_Simulator.exe.config
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\14. Boat Simulator\bin\Debug\_14.Boat_Simulator.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\14. Boat Simulator\bin\Debug\_14.Boat_Simulator.pdb
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\14. Boat Simulator\obj\Debug\_14.Boat_Simulator.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\14. Boat Simulator\obj\Debug\_14.Boat_Simulator.pdb

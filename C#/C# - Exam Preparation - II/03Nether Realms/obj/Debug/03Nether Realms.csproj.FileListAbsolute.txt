@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\03Nether Realms\bin\Debug\03Nether Realms.exe.config
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\03Nether Realms\bin\Debug\03Nether Realms.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\03Nether Realms\bin\Debug\03Nether Realms.pdb
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\03Nether Realms\obj\Debug\03Nether Realms.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\03Nether Realms\obj\Debug\03Nether Realms.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - II\03Nether Realms\obj\Debug\03Nether Realms.pdb

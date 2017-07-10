@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\01.Day Of Week\07.Sales Report\bin\Debug\07.Sales Report.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\01.Day Of Week\07.Sales Report\bin\Debug\07.Sales Report.exe
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\01.Day Of Week\07.Sales Report\bin\Debug\07.Sales Report.pdb
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\01.Day Of Week\07.Sales Report\obj\Debug\07.Sales Report.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\01.Day Of Week\07.Sales Report\obj\Debug\07.Sales Report.exe
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\01.Day Of Week\07.Sales Report\obj\Debug\07.Sales Report.pdb

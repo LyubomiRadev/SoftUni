@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\10. Sum of Chars\bin\Debug\_10.Sum_of_Chars.exe.config
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\10. Sum of Chars\bin\Debug\_10.Sum_of_Chars.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\10. Sum of Chars\bin\Debug\_10.Sum_of_Chars.pdb
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\10. Sum of Chars\obj\Debug\_10.Sum_of_Chars.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\10. Sum of Chars\obj\Debug\_10.Sum_of_Chars.pdb

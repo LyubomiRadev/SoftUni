@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\01.Match Full Name\01.Match Full Name\bin\Debug\01.Match Full Name.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\01.Match Full Name\01.Match Full Name\bin\Debug\01.Match Full Name.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\01.Match Full Name\01.Match Full Name\bin\Debug\01.Match Full Name.pdb
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\01.Match Full Name\01.Match Full Name\obj\Debug\01.Match Full Name.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\01.Match Full Name\01.Match Full Name\obj\Debug\01.Match Full Name.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Lab\01.Match Full Name\01.Match Full Name\obj\Debug\01.Match Full Name.pdb

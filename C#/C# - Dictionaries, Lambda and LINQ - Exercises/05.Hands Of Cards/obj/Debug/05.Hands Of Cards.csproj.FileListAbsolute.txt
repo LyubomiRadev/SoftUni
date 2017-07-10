@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\05.Hands Of Cards\bin\Debug\05.Hands Of Cards.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\05.Hands Of Cards\bin\Debug\05.Hands Of Cards.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\05.Hands Of Cards\bin\Debug\05.Hands Of Cards.pdb
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\05.Hands Of Cards\obj\Debug\05.Hands Of Cards.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\05.Hands Of Cards\obj\Debug\05.Hands Of Cards.exe
+C:\My Stuff\SoftUni\Homework\C# - Dictionaries, Lambda and LINQ - Exercises\01.Phonebook\05.Hands Of Cards\obj\Debug\05.Hands Of Cards.pdb

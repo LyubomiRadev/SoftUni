@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\01.SinoTheWalker\bin\Debug\01.SinoTheWalker.exe.config
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\01.SinoTheWalker\bin\Debug\01.SinoTheWalker.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\01.SinoTheWalker\bin\Debug\01.SinoTheWalker.pdb
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\01.SinoTheWalker\obj\Debug\01.SinoTheWalker.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\01.SinoTheWalker\obj\Debug\01.SinoTheWalker.exe
+C:\My Stuff\SoftUni\Homework\Exam Preparation - I\01.SinoTheWalker\01.SinoTheWalker\obj\Debug\01.SinoTheWalker.pdb

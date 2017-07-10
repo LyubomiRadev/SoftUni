@@ -1,0 +1,5 @@
+If you own an iPhone, you may have noticed something odd in the Messages app: Some messages are blue and some are green. What's the deal with that?
+
+Short answer: Blue ones have been sent or received using Apple's iMessage technology, while green ones are "traditional" text messages exchanged via Short Messaging Service, or SMS.
+
+Does this matter? In the grand texting scheme of things, should you care whether your messages are blue or green?

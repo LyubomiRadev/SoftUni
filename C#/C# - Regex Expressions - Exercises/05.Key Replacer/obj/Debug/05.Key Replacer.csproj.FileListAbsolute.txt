@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\05.Key Replacer\bin\Debug\05.Key Replacer.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\05.Key Replacer\bin\Debug\05.Key Replacer.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\05.Key Replacer\bin\Debug\05.Key Replacer.pdb
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\05.Key Replacer\obj\Debug\05.Key Replacer.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\05.Key Replacer\obj\Debug\05.Key Replacer.exe
+C:\My Stuff\SoftUni\Homework\C# - Regex Expressions - Exercises\05.Key Replacer\obj\Debug\05.Key Replacer.pdb

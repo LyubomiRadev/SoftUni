@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\07.Email Statistics\bin\Debug\07.Email Statistics.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\07.Email Statistics\bin\Debug\07.Email Statistics.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\07.Email Statistics\bin\Debug\07.Email Statistics.pdb
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\07.Email Statistics\obj\Debug\07.Email Statistics.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\07.Email Statistics\obj\Debug\07.Email Statistics.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\07.Email Statistics\obj\Debug\07.Email Statistics.pdb

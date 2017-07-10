@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\01.Day Of Week\01.Day Of Week\bin\Debug\01.Day Of Week.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\01.Day Of Week\01.Day Of Week\bin\Debug\01.Day Of Week.exe
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\01.Day Of Week\01.Day Of Week\bin\Debug\01.Day Of Week.pdb
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\01.Day Of Week\01.Day Of Week\obj\Debug\01.Day Of Week.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\01.Day Of Week\01.Day Of Week\obj\Debug\01.Day Of Week.exe
+C:\My Stuff\SoftUni\Homework\C# - Objects and Classes - Lab\01.Day Of Week\01.Day Of Week\obj\Debug\01.Day Of Week.pdb

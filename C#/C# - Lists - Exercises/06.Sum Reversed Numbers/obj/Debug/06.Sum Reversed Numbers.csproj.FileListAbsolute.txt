@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\01. Max Sequence of Equal Elements\06.Sum Reversed Numbers\bin\Debug\06.Sum Reversed Numbers.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\01. Max Sequence of Equal Elements\06.Sum Reversed Numbers\bin\Debug\06.Sum Reversed Numbers.exe
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\01. Max Sequence of Equal Elements\06.Sum Reversed Numbers\bin\Debug\06.Sum Reversed Numbers.pdb
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\01. Max Sequence of Equal Elements\06.Sum Reversed Numbers\obj\Debug\06.Sum Reversed Numbers.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\01. Max Sequence of Equal Elements\06.Sum Reversed Numbers\obj\Debug\06.Sum Reversed Numbers.exe
+C:\My Stuff\SoftUni\Homework\C# - Lists - Exercises\01. Max Sequence of Equal Elements\06.Sum Reversed Numbers\obj\Debug\06.Sum Reversed Numbers.pdb

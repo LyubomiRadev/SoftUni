@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\01.TypeBoundaries\bin\Debug\01.TypeBoundaries.exe.config
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\01.TypeBoundaries\bin\Debug\01.TypeBoundaries.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\01.TypeBoundaries\bin\Debug\01.TypeBoundaries.pdb
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\01.TypeBoundaries\obj\Debug\01.TypeBoundaries.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\01.TypeBoundaries\obj\Debug\01.TypeBoundaries.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\01.TypeBoundaries\obj\Debug\01.TypeBoundaries.pdb

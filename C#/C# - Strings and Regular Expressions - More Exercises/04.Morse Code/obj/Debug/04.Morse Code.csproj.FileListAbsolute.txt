@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\04.Morse Code\bin\Debug\04.Morse Code.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\04.Morse Code\bin\Debug\04.Morse Code.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\04.Morse Code\bin\Debug\04.Morse Code.pdb
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\04.Morse Code\obj\Debug\04.Morse Code.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\04.Morse Code\obj\Debug\04.Morse Code.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\01.Censore Word\04.Morse Code\obj\Debug\04.Morse Code.pdb

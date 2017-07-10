@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\02. Number Checker\bin\Debug\_02.Number_Checker.exe.config
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\02. Number Checker\bin\Debug\_02.Number_Checker.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\02. Number Checker\bin\Debug\_02.Number_Checker.pdb
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\02. Number Checker\obj\Debug\_02.Number_Checker.exe
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\02. Number Checker\obj\Debug\_02.Number_Checker.pdb
+C:\My Stuff\SoftUni\Homework\Fundamentals-Data-Types-and-Variables-More-Exercises\01.TypeBoundaries\02. Number Checker\obj\Debug\02. Number Checker.csprojResolveAssemblyReference.cache

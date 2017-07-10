@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Order by Age", "01.Order by Age\01.Order by Age.csproj", "{5B0169B7-31B5-4FF3-B8D3-3401B406FEAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Viechle Catalogue", "02.Viechle Catalogue\02.Viechle Catalogue.csproj", "{89F8A268-3727-48D8-A5FD-F8C038B193E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Jarvis", "03.Jarvis\03.Jarvis.csproj", "{C4ABA4C6-DE2D-47A5-9324-3592888982C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B0169B7-31B5-4FF3-B8D3-3401B406FEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0169B7-31B5-4FF3-B8D3-3401B406FEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0169B7-31B5-4FF3-B8D3-3401B406FEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0169B7-31B5-4FF3-B8D3-3401B406FEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F8A268-3727-48D8-A5FD-F8C038B193E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F8A268-3727-48D8-A5FD-F8C038B193E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F8A268-3727-48D8-A5FD-F8C038B193E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F8A268-3727-48D8-A5FD-F8C038B193E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4ABA4C6-DE2D-47A5-9324-3592888982C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4ABA4C6-DE2D-47A5-9324-3592888982C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4ABA4C6-DE2D-47A5-9324-3592888982C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4ABA4C6-DE2D-47A5-9324-3592888982C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

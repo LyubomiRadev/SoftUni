@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Exam Preparation - IV\04.Cubic Message\bin\Debug\04.Cubic Message.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Exam Preparation - IV\04.Cubic Message\bin\Debug\04.Cubic Message.exe
+C:\My Stuff\SoftUni\Homework\C# - Exam Preparation - IV\04.Cubic Message\bin\Debug\04.Cubic Message.pdb
+C:\My Stuff\SoftUni\Homework\C# - Exam Preparation - IV\04.Cubic Message\obj\Debug\04.Cubic Message.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Exam Preparation - IV\04.Cubic Message\obj\Debug\04.Cubic Message.exe
+C:\My Stuff\SoftUni\Homework\C# - Exam Preparation - IV\04.Cubic Message\obj\Debug\04.Cubic Message.pdb

@@ -1,0 +1,5 @@
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\11.Geometry Calculator\bin\Debug\11.Geometry Calculator.exe.config
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\11.Geometry Calculator\bin\Debug\11.Geometry Calculator.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\11.Geometry Calculator\bin\Debug\11.Geometry Calculator.pdb
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\11.Geometry Calculator\obj\Debug\11.Geometry Calculator.exe
+C:\My Stuff\SoftUni\Homework\Programming-Fundamentals-Methods-Debugging-and-Troubleshooting\01.HelloName\11.Geometry Calculator\obj\Debug\11.Geometry Calculator.pdb

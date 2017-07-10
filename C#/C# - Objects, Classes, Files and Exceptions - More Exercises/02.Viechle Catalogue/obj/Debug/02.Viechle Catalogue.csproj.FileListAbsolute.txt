@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Objects, Classes, Files and Exceptions - More Exercises\01.Order by Age\02.Viechle Catalogue\bin\Debug\02.Viechle Catalogue.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Objects, Classes, Files and Exceptions - More Exercises\01.Order by Age\02.Viechle Catalogue\bin\Debug\02.Viechle Catalogue.exe
+C:\My Stuff\SoftUni\Homework\C# - Objects, Classes, Files and Exceptions - More Exercises\01.Order by Age\02.Viechle Catalogue\bin\Debug\02.Viechle Catalogue.pdb
+C:\My Stuff\SoftUni\Homework\C# - Objects, Classes, Files and Exceptions - More Exercises\01.Order by Age\02.Viechle Catalogue\obj\Debug\02.Viechle Catalogue.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Objects, Classes, Files and Exceptions - More Exercises\01.Order by Age\02.Viechle Catalogue\obj\Debug\02.Viechle Catalogue.exe
+C:\My Stuff\SoftUni\Homework\C# - Objects, Classes, Files and Exceptions - More Exercises\01.Order by Age\02.Viechle Catalogue\obj\Debug\02.Viechle Catalogue.pdb

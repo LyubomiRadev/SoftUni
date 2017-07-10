@@ -1,0 +1,6 @@
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\03.Karate Strings\bin\Debug\03.Karate Strings.exe.config
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\03.Karate Strings\bin\Debug\03.Karate Strings.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\03.Karate Strings\bin\Debug\03.Karate Strings.pdb
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\03.Karate Strings\obj\Debug\03.Karate Strings.csprojResolveAssemblyReference.cache
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\03.Karate Strings\obj\Debug\03.Karate Strings.exe
+C:\My Stuff\SoftUni\Homework\C# - Strings and Regular Expressions - More Exercises\03.Karate Strings\obj\Debug\03.Karate Strings.pdb

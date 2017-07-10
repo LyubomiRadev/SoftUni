@@ -1,0 +1,6 @@
+c:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\8. Greater of Two Values\bin\Debug\_8.Greater_of_Two_Values.exe.config
+c:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\8. Greater of Two Values\bin\Debug\_8.Greater_of_Two_Values.exe
+c:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\8. Greater of Two Values\bin\Debug\_8.Greater_of_Two_Values.pdb
+c:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\8. Greater of Two Values\obj\Debug\8. Greater of Two Values.csprojResolveAssemblyReference.cache
+c:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\8. Greater of Two Values\obj\Debug\_8.Greater_of_Two_Values.exe
+c:\Users\Lyubomir\documents\visual studio 2017\Projects\Test\8. Greater of Two Values\obj\Debug\_8.Greater_of_Two_Values.pdb
