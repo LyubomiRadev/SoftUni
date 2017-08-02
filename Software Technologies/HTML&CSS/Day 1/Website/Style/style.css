@@ -1,0 +1,22 @@
+#text{
+    font-family: Candara;
+}
+a{
+    box-shadow: -3px -3px 4px yellow, -3px -3px 4px #ffd800;
+    margin: 1px;
+    background:  red;
+    border-radius: 3px;
+    color:  #ffff00;
+    text-decoration: none;
+}
+a:hover{
+    color: #30cacd;
+}
+a:active{
+    background: darkred;
+    box-shadow: 3px 3px 4px yellow;
+}
+
+body{
+    background: greenyellow;
+}

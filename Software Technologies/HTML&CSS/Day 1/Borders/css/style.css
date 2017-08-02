@@ -1,0 +1,31 @@
+#blueBorder{
+    border: 3px solid blue;
+    border-radius: 15px;
+    background: darkgrey;
+    font-size: 50px;
+
+}
+#redBorder{
+    border: 3px solid red;
+    border-radius: 15px;
+    background: darkgrey;
+    font-size: 50px;
+}
+#greenBorder{
+    border: 3px solid green;
+    border-radius: 15px;
+    background: darkgrey;
+    font-size: 50px;
+}
+#blue{
+    color: blue;
+}
+#red{
+    color: red;
+}
+#green{
+    color: green;
+}
+.position{
+    text-align: center;
+}
